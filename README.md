@@ -1,2 +1,0 @@
-# webProctoringClient
-Created with CodeSandbox
