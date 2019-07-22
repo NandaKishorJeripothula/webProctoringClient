@@ -4,6 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
+  "private":"true",
   "dependencies": {
     "@tensorflow-models/coco-ssd": "1.1.1",
     "@tensorflow/tfjs": "1.2.3",
